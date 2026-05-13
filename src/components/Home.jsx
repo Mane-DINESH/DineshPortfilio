@@ -718,7 +718,7 @@ function Home() {
                 {/* Image */}
                 <motion.img
                   whileHover={{ scale: 1.03 }}
-                  src={pic}
+                  src={Pic}
                   alt="profile"
                   className="relative w-[280px] h-[280px] md:w-[420px] md:h-[420px] object-cover rounded-full border-[8px] border-white shadow-2xl"
                 />
