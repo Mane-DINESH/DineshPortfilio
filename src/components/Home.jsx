@@ -583,7 +583,7 @@ function Home() {
                 <h2 className="text-3xl md:text-5xl font-bold text-gray-800 leading-tight">
                   Hi, I'm{" "}
                   <span className="text-purple-600">
-                    Dinesh Mane
+                    Dinesh Ram Mane
                   </span>
                 </h2>
 
