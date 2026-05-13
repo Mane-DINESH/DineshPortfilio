@@ -460,18 +460,16 @@ import {
 
 import { FaSquareFacebook } from "react-icons/fa6";
 
-import pic from "../assets/DineshPortfolioImage.jpeg";
+const JavaFullstack = "/Fullstack.jpg";
+const Cprogramming = "/Cprogramming.jpg";
+const Codethon = "/codethon.jpg";
+const Accenture = "/accenture.png";
+const AWS = "/aws.png";
+const Deloitte = "/Deloitte.png";
 
-import JavaFullstack from "../../public/Fullstack.jpg";
-import Cprogramming from "../../public/Cprogramming.jpg";
-import Codethon from "../../public/codethon.jpg";
-import Accenture from "../../public/accenture.png";
-import AWS from "../../public/aws.png";
-import Deloitte from "../../public/Deloitte.png";
-
-import FYMarksheet from "../../public/FYBCS.pdf";
-import SYMarksheet from "../../public/SY.BCS.pdf";
-import TYMarksheet from "../../public/TYBCS.pdf";
+const FYMarksheet = "/FYBCS.pdf";
+const SYMarksheet = "/SY.BCS.pdf";
+const TYMarksheet = "/TYBCS.pdf";
 
 function Home() {
   const [showCertModal, setShowCertModal] = useState(false);
