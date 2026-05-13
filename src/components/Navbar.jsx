@@ -147,7 +147,6 @@ import {
   FaEnvelope,
 } from "react-icons/fa";
 
-// import pic from "../../public/Dinesh.jpg";
 const pic = "/Dinesh.jpg";
 function Navbar() {
   const [menu, setMenu] = useState(false);
