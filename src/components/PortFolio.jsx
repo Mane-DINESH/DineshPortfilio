@@ -669,21 +669,27 @@ import {
   FaCode,
 } from "react-icons/fa";
 
-import java from "../../public/java.png";
-import Css from "../../public/css.jpg";
-import JavaScript from "../../public/javascript.png";
-import reactjs from "../../public/reactjs.png";
-import Ai from "../assets/images.jpg";
+const java = "/java.png";
+const Css = "/css.jpg";
+const JavaScript = "/javascript.png";
+const reactjs = "/reactjs.png";
 
-import javascriptvideo from "../../public/javascript1.mp4";
-import javascriptvideo1 from "../../public/javascript2.mp4";
-import cssvideo from "../../public/css1.mp4";
-import cssvideo1 from "../../public/css2.mp4";
-import javavideo from "../../public/java.mp4";
-import reactvideo from "../../public/React1.mp4";
-import Portfolio from "../../public/portfolio.mp4"
-import KalikaFootwearOnlineShopping from "../../public/KalikaFootwearonlineshopping.mp4"
-import AiChat from '../../public/AiChatBot.mp4'
+const javascriptvideo = "/javascript1.mp4";
+const javascriptvideo1 = "/javascript2.mp4";
+
+const cssvideo = "/css1.mp4";
+const cssvideo1 = "/css2.mp4";
+
+const javavideo = "/java.mp4";
+
+const reactvideo = "/React1.mp4";
+
+const Portfolio = "/portfolio.mp4";
+
+const KalikaFootwearOnlineShopping =
+  "/KalikaFootwearonlineshopping.mp4";
+
+const AiChat = "/AiChatBot.mp4";
 function PortFolio() {
   const [isModalOpen, setIsModalOpen] =
     useState(false);

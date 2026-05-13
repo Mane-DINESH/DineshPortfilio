@@ -103,7 +103,7 @@ import {
   FaMapMarkerAlt,
 } from "react-icons/fa";
 
-import Dinesh from "../../public/D1.png";
+const Dinesh = "D1.png";
 
 function Footer() {
   return (
