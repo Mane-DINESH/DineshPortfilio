@@ -470,7 +470,7 @@ const Deloitte = "/Deloitte.png";
 const FYMarksheet = "/FYBCS.pdf";
 const SYMarksheet = "/SY.BCS.pdf";
 const TYMarksheet = "/TYBCS.pdf";
-const Pic = "/DineshPortfolioImage.jpeg";
+const Pic = "/Dinesh.jpg";
 
 function Home() {
   const [showCertModal, setShowCertModal] = useState(false);
