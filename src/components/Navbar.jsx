@@ -148,7 +148,7 @@ import {
 } from "react-icons/fa";
 
 // import pic from "../../public/Dinesh.jpg";
-import pic from "../assets/DineshPortfolioImage.jpeg";
+const pic = "/Dinesh.jpg";
 function Navbar() {
   const [menu, setMenu] = useState(false);
 
