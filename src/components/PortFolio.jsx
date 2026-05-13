@@ -660,6 +660,7 @@ import {
 
 import "swiper/css";
 import "swiper/css/navigation";
+import Ai from "../assets/images.jpg";
 
 import { Navigation } from "swiper/modules";
 
@@ -690,6 +691,8 @@ const KalikaFootwearOnlineShopping =
   "/KalikaFootwearonlineshopping.mp4";
 
 const AiChat = "/AiChatBot.mp4";
+
+
 function PortFolio() {
   const [isModalOpen, setIsModalOpen] =
     useState(false);
