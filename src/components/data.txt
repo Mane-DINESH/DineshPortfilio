@@ -1,0 +1,2 @@
+you want build project use this command : npm run build;
+you want to run this project to use this command:npm run dev;
