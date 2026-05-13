@@ -466,7 +466,7 @@ import JavaFullstack from "../../public/Fullstack.jpg";
 import Cprogramming from "../../public/Cprogramming.jpg";
 import Codethon from "../../public/codethon.jpg";
 import Accenture from "../../public/accenture.png";
-import AWS from "../../public/AWS.png";
+import AWS from "../../public/aws.png";
 import Deloitte from "../../public/Deloitte.png";
 
 import FYMarksheet from "../../public/FYBCS.pdf";
